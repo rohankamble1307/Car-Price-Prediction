@@ -75,12 +75,6 @@ This project is a machine learning-based system that predicts the selling price 
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is for educational purposes only and demonstrates machine learning techniques for price prediction.
-
----
-
 ## 👨‍💻 Author
 
 **Rohan Kamble**  
